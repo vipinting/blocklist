@@ -2,4 +2,9 @@
 valoufroo.in.net
 integralsm.cl
 absoluteprintgroup.com
+api.skycloudcenter.com
+api.wiresguard.com
+cdncheck.it.com
 digismn.com
+safe-dns.it.com
+self-dns.it.com
