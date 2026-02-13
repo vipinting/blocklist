@@ -8,3 +8,17 @@ cdncheck.it.com
 digismn.com
 safe-dns.it.com
 self-dns.it.com
+7zip.com
+soc.hero-sms.co
+neo.herosms.co
+flux.smshero.co
+nova.smshero.ai
+apex.herosms.ai
+spark.herosms.io
+zest.hero-sms.ai
+prime.herosms.vip
+vivid.smshero.vip
+mint.smshero.com
+pulse.herosms.cc
+glide.smshero.cc
+iplogger.org
